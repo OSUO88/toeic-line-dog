@@ -1,0 +1,3 @@
+# Keep local backups and generated output out of the published repository.
+/index-before-shop-and-dog-assets.html
+/_site/
